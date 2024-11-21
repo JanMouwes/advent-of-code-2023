@@ -1,6 +1,6 @@
 namespace AdventOfCode2023;
 
-public static class Day1
+public static class Day01
 {
     public static string SolvePart1(string input)
     {
